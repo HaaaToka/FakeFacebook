@@ -5,6 +5,7 @@ This was my assignment
 How to execute this fakeMiniFacebook
 
 enter src file
+open commands line
 
 javac Main.java
 then
